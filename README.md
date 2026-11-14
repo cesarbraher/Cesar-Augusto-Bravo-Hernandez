@@ -45,16 +45,16 @@ I am a full-stack developer and digital artist passionate about building scalabl
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Nombre Proyecto 1]** | Breve descripción enfocada en el problema que resuelve y su impacto. | `Next.js` `Firebase` `Tailwind` |
-| **[Nombre Proyecto 2]** | App móvil o herramienta open-source con enfoque en UI/UX y accesibilidad. | `Flutter` `Google Cloud` |
-| **[Creative Coding / Art Repo]** | Experimentos visuales, shaders o componentes UI interactivos. | `React` `Canvas API` `CSS3` |
 
 ---
 
 ### ✍️ Content, Talks & Community
 *A core part of my work is translating complex technical concepts into accessible resources:*
-- 📝 **Articles & Guides:** [Enlace a tu blog, Medium o Dev.to]
-- 🎥 **Demos & Tutorials:** [Enlace a tu canal de YouTube o charlas]
+- 📝 **Blog & Contact:** [https://cebraher.com]
+- 🎥 **Project's:** [https://cebra.tech]
 - 🤝 **Open Source:** All my public templates and tools are released under **Apache 2.0** to help the community build faster.
+- ♾️ E-mail: me@cebraher.com , cebraher@gmail.com
+- 🟢 WhatsApp: +52 464 109 3886
 
 ---
 
